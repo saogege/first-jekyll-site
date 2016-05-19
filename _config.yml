@@ -10,7 +10,7 @@ title: sgg's first jekyll site
 email: zjut_sgg@163.com
 description: > # this means to ignore newlines until "baseurl:"
   hello world! That's awesome!
-baseurl: "/first-jekyll-site"  # the subpath of your site, e.g. /blog
+baseurl: /first-jekyll-site  # the subpath of your site, e.g. /blog
 url: "http://saogege.github.io/first-jekyll-site" # the base hostname & protocol for your site
 twitter_username: sgg
 github_username: saogege
@@ -22,4 +22,4 @@ markdown: kramdown
 detach:  false
 port:    4000
 host:    0.0.0.0
-baseurl: "" # does not include hostname
+#baseurl: "" # does not include hostname
