@@ -15,6 +15,9 @@ url: "http://saogege.github.io" # the base hostname & protocol for your site
 twitter_username: sgg
 github_username: saogege
 
+#blog link settings
+permalink: /:year/:month/:day/:title
+
 # Build settings
 markdown: kramdown
 
